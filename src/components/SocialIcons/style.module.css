@@ -1,0 +1,55 @@
+.social_icons {
+  padding: 0.25rem 0;
+  font-size: 3rem;
+}
+
+.animate_icons a {
+  color: white;
+  padding: 0 0.625rem;
+  display: inline-block;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+}
+
+.animate_icons a:hover,
+.animate_icons a:focus,
+.animate_icons a:active {
+  animation-name: icon-wobble;
+  animation-duration: 0.75s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
+}
+
+@keyframes icon-wobble {
+  25% {
+    transform: translateY(-8px);
+  }
+  50% {
+    transform: translateY(0px);
+  }
+  75% {
+    transform: translateY(-4px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 425px) {
+  .social_icons {
+    font-size: 2.3rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .social_icons {
+    font-size: 2rem;
+  }
+}
+

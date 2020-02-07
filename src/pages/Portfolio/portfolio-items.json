@@ -1,0 +1,65 @@
+[
+	{
+		"title": "Chrome Extension",
+		"description": "Customize your own speed control hotkeys in Youtube",
+		"icons": ["react", "js", "css3-alt"],
+		"link": {
+			"href": "https://chrome.google.com/webstore/detail/youtube-speed-control-hot/opcjoeippmphadnkmkjocmingcbpmepn",
+			"text": "Chrome Web Store"
+		}
+	},
+	{
+		"title": "Snake Game",
+		"description": "Snake game developed in HTML5 Canvas",
+		"icons": ["html5", "js"],
+		"link": {
+			"href": "https://github.com/krsntn/html5-canvas-snake-game",
+			"text": "More"
+		}
+	},
+	{
+		"title": "Step Progress Bar",
+		"description": "Step progress bar fully in CSS and HTML",
+		"icons": ["html5", "css3-alt"],
+		"link": {
+			"href": "https://github.com/krsntn/css3-step-progress-bar",
+			"text": "More"
+		}
+	},
+	{
+		"title": "Vertical Timeline",
+		"description": "Beautiful timeline in HTML5",
+		"icons": ["html5", "css3-alt"],
+		"link": {
+			"href": "https://github.com/krsntn/css3-vertical-timeline",
+			"text": "More"
+		}
+	},
+	{
+		"title": "Typeracer Cheat",
+		"description": "Prank your friends with fast typing speed.",
+		"icons": ["js"],
+		"link": {
+			"href": "https://github.com/krsntn/typeracer-cheat",
+			"text": "More"
+		}
+	},
+	{
+		"title": "React-Redux App",
+		"description": "Boilerplate code with community best practices",
+		"icons": ["react", "js"],
+		"link": {
+			"href": "https://github.com/krsntn/redux-app",
+			"text": "More"
+		}
+	},
+	{
+		"title": "Button Animation",
+		"description": "Button animation with CSS3",
+		"icons": ["html5", "css3-alt"],
+		"link": {
+			"href": "https://github.com/krsntn/css3-button-hover-animation",
+			"text": "More"
+		}
+	}
+]

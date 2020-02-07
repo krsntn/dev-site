@@ -1,0 +1,112 @@
+.landing_page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.landing_page main {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5rem 1.5rem 1rem;
+}
+
+.landing_page main .pic {
+  padding-bottom: 1rem;
+  z-index: 1;
+}
+
+.landing_page main .pic > img {
+  height: 10rem;
+  width: 10rem;
+}
+
+.landing_page main .intro_name {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 4rem;
+  padding-bottom: 1rem;
+}
+
+.landing_page main .intro_name::selection {
+  background: yellow; /* WebKit/Blink Browsers */
+}
+.landing_page main .intro_name::-moz-selection {
+  background: yellow; /* Gecko Browsers */
+}
+
+.landing_page main .tagline {
+  font-size: 1.375rem;
+  margin: 1.5rem 0;
+  font-weight: 300;
+}
+
+.landing_page main .tagline::selection {
+  background: red; /* WebKit/Blink Browsers */
+}
+.landing_page main .tagline::-moz-selection {
+  background: red; /* Gecko Browsers */
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 768px) {
+  .landing_page main .intro_name {
+    font-size: 2.5rem;
+    line-height: 2rem;
+  }
+
+  .landing_page main .tagline {
+    font-size: 1rem;
+    margin: 1rem 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .landing_page main {
+    padding: 3.25rem 2rem 1rem;
+  }
+
+  .landing_page main .pic > img {
+    height: 6rem;
+    width: 6rem;
+  }
+  
+  .landing_page main .intro_name {
+    font-size: 2.5rem;
+    line-height: 2rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .landing_page main .tagline {
+    font-size: 0.95rem;
+    margin: 0.8rem 0;
+    font-weight: 100;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .landing_page main {
+    padding: 3rem 1.5rem 1rem;
+  }
+
+  .landing_page main .pic > img {
+    height: 5rem;
+    width: 5rem;
+  }
+  
+  .landing_page main .intro_name {
+    font-size: 2rem;
+    line-height: 2rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .landing_page main .tagline {
+    font-size: 0.85rem;
+    margin: 0.8rem 0;
+    font-weight: 100;
+  }
+}
