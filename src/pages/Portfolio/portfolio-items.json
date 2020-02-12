@@ -1,65 +1,56 @@
 [
-	{
-		"title": "Chrome Extension",
-		"description": "Customize your own speed control hotkeys in Youtube",
-		"icons": ["react", "js", "css3-alt"],
-		"link": {
-			"href": "https://chrome.google.com/webstore/detail/youtube-speed-control-hot/opcjoeippmphadnkmkjocmingcbpmepn",
-			"text": "Chrome Web Store"
-		}
-	},
-	{
-		"title": "Snake Game",
-		"description": "Snake game developed in HTML5 Canvas",
-		"icons": ["html5", "js"],
-		"link": {
-			"href": "https://github.com/krsntn/html5-canvas-snake-game",
-			"text": "More"
-		}
-	},
-	{
-		"title": "Step Progress Bar",
-		"description": "Step progress bar fully in CSS and HTML",
-		"icons": ["html5", "css3-alt"],
-		"link": {
-			"href": "https://github.com/krsntn/css3-step-progress-bar",
-			"text": "More"
-		}
-	},
-	{
-		"title": "Vertical Timeline",
-		"description": "Beautiful timeline in HTML5",
-		"icons": ["html5", "css3-alt"],
-		"link": {
-			"href": "https://github.com/krsntn/css3-vertical-timeline",
-			"text": "More"
-		}
-	},
-	{
-		"title": "Typeracer Cheat",
-		"description": "Prank your friends with fast typing speed.",
-		"icons": ["js"],
-		"link": {
-			"href": "https://github.com/krsntn/typeracer-cheat",
-			"text": "More"
-		}
-	},
-	{
-		"title": "React-Redux App",
-		"description": "Boilerplate code with community best practices",
-		"icons": ["react", "js"],
-		"link": {
-			"href": "https://github.com/krsntn/redux-app",
-			"text": "More"
-		}
-	},
-	{
-		"title": "Button Animation",
-		"description": "Button animation with CSS3",
-		"icons": ["html5", "css3-alt"],
-		"link": {
-			"href": "https://github.com/krsntn/css3-button-hover-animation",
-			"text": "More"
-		}
-	}
+  {
+    "title": "Time Progress",
+    "description": "A site that display the current progression of time",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://time-progress.karson.tk",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "Notification Generator",
+    "description": "Look screen notification generator",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://notification-generator.karson.tk",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "Bottom Scroller",
+    "description": "A bookmarklet to scroll to the bottom of a webpage",
+    "icons": ["fab_js", "fab_css3-alt", "fas_globe-asia"],
+    "link": {
+      "href": "https://bottom-scroller.karson.tk",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "Chrome Extension",
+    "description": "Customize your own speed control hotkeys in Youtube",
+    "icons": ["fab_react", "fab_js", "fab_css3-alt", "fab_google"],
+    "link": {
+      "href": "https://chrome.google.com/webstore/detail/youtube-speed-control-hot/opcjoeippmphadnkmkjocmingcbpmepn",
+      "text": "Chrome Web Store"
+    }
+  },
+  {
+    "title": "Snake Game",
+    "description": "Snake game developed in HTML5 Canvas",
+    "icons": ["fab_html5", "fab_js", "fab_codepen", "fab_github"],
+    "link": {
+      "href": "https://github.com/krsntn/html5-canvas-snake-game",
+      "text": "Learn More"
+    }
+  },
+  {
+    "title": "Typeracer Cheat",
+    "description": "Prank your friends with fast typing speed.",
+    "icons": ["fab_js", "fab_github"],
+    "link": {
+      "href": "https://github.com/krsntn/typeracer-cheat",
+      "text": "Learn More"
+    }
+  }
 ]
