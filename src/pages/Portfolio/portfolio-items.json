@@ -1,5 +1,23 @@
 [
   {
+    "title": "1to60 - Game",
+    "description": "Click from 1 to 60 as fast as you can",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://1to60.tk",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "Malaysia Petrol Price",
+    "description": "A site that display the latest Malaysia petrol price",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://petrol.karson.tk",
+      "text": "Visit Site"
+    }
+  },
+  {
     "title": "Time Progress",
     "description": "A site that display the current progression of time",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
