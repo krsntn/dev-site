@@ -1,10 +1,28 @@
 [
   {
-    "title": "1to60 - Game",
-    "description": "Click from 1 to 60 as fast as you can",
+    "title": "QR Code Generator",
+    "description": "A minimalist website to generate QR code",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://1to60.tk",
+      "href": "https://qrcode.ga/",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "COVID-19 Tracker",
+    "description": "Tracking the coronavirus outbreak worldwide",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://covid19-tracker.ga/",
+      "text": "Visit Site"
+    }
+  },
+  {
+    "title": "1to30 - Game",
+    "description": "Click from 1 to 30 as fast as you can",
+    "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
+    "link": {
+      "href": "https://1to30.tk",
       "text": "Visit Site"
     }
   },
