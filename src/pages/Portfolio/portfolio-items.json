@@ -31,7 +31,7 @@
     "description": "A site that display the latest Malaysia petrol price",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://petrol.karson.tk",
+      "href": "https://petrol.krsn.xyz",
       "text": "Visit Site"
     }
   },
@@ -40,7 +40,7 @@
     "description": "A site that display the current progression of time",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://time-progress.karson.tk",
+      "href": "https://time-progress.krsn.xyz",
       "text": "Visit Site"
     }
   },
@@ -49,7 +49,7 @@
     "description": "Look screen notification generator",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://notification-generator.karson.tk",
+      "href": "https://notification-generator.krsn.xyz",
       "text": "Visit Site"
     }
   },
@@ -58,7 +58,7 @@
     "description": "A bookmarklet to scroll to the bottom of a webpage",
     "icons": ["fab_js", "fab_css3-alt", "fas_globe-asia"],
     "link": {
-      "href": "https://bottom-scroller.karson.tk",
+      "href": "https://bottom-scroller.krsn.xyz",
       "text": "Visit Site"
     }
   },
