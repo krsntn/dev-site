@@ -4,7 +4,7 @@
     "description": "A minimalist website to generate QR code",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://qrcode.ga/",
+      "href": "https://qrcode.krsn.xyz/",
       "text": "Visit Site"
     }
   },
@@ -13,7 +13,7 @@
     "description": "Tracking the coronavirus outbreak worldwide",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
-      "href": "https://covid19-tracker.ga/",
+      "href": "https://covid19-tracker.krsn.xyz/",
       "text": "Visit Site"
     }
   },
