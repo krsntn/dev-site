@@ -46,7 +46,7 @@
   },
   {
     "title": "Notification Generator",
-    "description": "Look screen notification generator",
+    "description": "Lock screen notification generator",
     "icons": ["fab_react", "fab_sass", "fas_globe-asia"],
     "link": {
       "href": "https://notification-generator.krsn.xyz",

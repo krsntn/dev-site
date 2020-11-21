@@ -11,25 +11,17 @@ const AboutPage = () => {
         <div className={css.about_wrapper}>
           <div className={css.about_content}>
             <p>
-              I like <span className={css.highlight}>JavaScript</span> and
+              I love <span className={css.highlight}>JavaScript</span> and
               everything in web.
             </p>
             <p>
               When my dev senses kick-in I build presumably{' '}
-              <span className={css.highlight}> awesome stuff</span>. I constantly learning new things when I have time.  I stay close to
+              <span className={css.highlight}>awesome stuff</span>. I constantly learning new things when I have time.  I stay close to
               the community and try to keep tabs with the pace at which the web
               is evolving.
             </p>
             <p>
-              I built this site <span className={css.highlight}>from scratch</span>.
-              By scratch, I mean absolutely from scratch{' '}
-              <span className={css.highlight}>
-                without any UI library/framework
-              </span>{' '}
-              (except React though) and had so much fun along the way.
-            </p>
-            <p>
-              I am also obsessed with making the web look pretty with CSS.
+              I am also obsessed with making the web look pretty with CSS. React, Node, AWS, Firebase are the main tricks up my sleeve.
             </p>
             <p className={css.text_emoji}>
               ¯\_(ツ)_/¯
